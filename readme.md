@@ -1,4 +1,4 @@
-# Bbioon Theme Showcase WordPress Plugin
+# Theme Showcase WordPress Plugin
 
 This plugin Helps WordPress theme Developers to showcase There WP Themes.
 Just install this plugin in your main demo and add all demos data.
