@@ -297,6 +297,6 @@ function bb_front_end_demos() {
 	//Kindly Don't remove this line
 	?>
     <!-- Created by BbioonThemes: https://themeforest.net/user/bbioonthemes/portfolio -->
-    <!-- Plugin URL: https://github.com/devwael/ -->
+    <!-- Plugin URL: https://github.com/DevWael/WP-Plugin-Themes-Showcase -->
 	<?php
 }
