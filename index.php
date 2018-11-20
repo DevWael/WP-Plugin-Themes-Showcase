@@ -19,7 +19,7 @@ if ( ! defined( 'BBIOON_THEME_SHOWCASE' ) ) {
 
 //plugin version
 if ( ! defined( 'BBIOON_THEME_SHOWCASE_VERSION' ) ) {
-	define( 'BBIOON_THEME_SHOWCASE_VERSION', 1 );
+	define( 'BBIOON_THEME_SHOWCASE_VERSION', 0.5 );
 }
 
 //plugin admin settings page
