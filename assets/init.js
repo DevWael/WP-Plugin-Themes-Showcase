@@ -1,7 +1,7 @@
 (function ($) {
     "use strict";
     /**
-     * Show / Hide Search box in navbar
+     * Show / Hide Demos box in navbar
      */
     (function () {
         var open_btn = $('.bb_open_showcase');
