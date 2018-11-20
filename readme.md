@@ -12,3 +12,5 @@ Needed Data:
 - Theme Demo Picture
 ```
 That's it.
+[![PhpStorm IDE](https://rawgit.com/ThemeFuse/Unyson/master/.github/img/phpstorm.png)](https://www.jetbrains.com/phpstorm/)
+[![Build Status](https://travis-ci.org/ThemeFuse/Unyson.svg?branch=master)](https://themeforest.net/user/bbioonthemes/portfolio)
