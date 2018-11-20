@@ -1,6 +1,6 @@
 # Theme Showcase WordPress Plugin
 
-This plugin Helps WordPress theme Developers to showcase There WP Themes.
+This plugin Helps WordPress theme Developers to showcase Their WP Themes.
 Just install this plugin in your main demo and add all demos data.
 ```
 Needed Data:
